@@ -1,9 +1,9 @@
 Siboom is a simple markup system for writing books drafts.
 
-The idea is to have a very simple format to write book drafts that it is trivial
-to convert into something prettier. Currently available filters are able to
-turn Siboom files into HTML or plain text, a Latex output filter is under
-development.
+The idea is to have a very simple format to write books drafts that it is
+trivial to convert into something prettier. Currently available filters are
+able to turn Siboom files into HTML or plain text, a Latex output filter is
+under development.
 
 Please check the example.siboom file to get a feeling of the markup and
 features.
@@ -26,4 +26,4 @@ Ruby class that is able to do things like list_start, list_end, emit_text,
 and so on. Check the HTML filter and use it as reference to write your new
 output filter.
 
-Siboom was writte by Salvatore Sanfilippo
+Siboom was written by Salvatore Sanfilippo
