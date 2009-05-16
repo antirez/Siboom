@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+}
+
+h1 {
+    letter-spacing: -2px;
+}
+
+p {
+    line-height:1.7em;
+}
+
+pre.code {
+    font-size:16px;
+    border: 1px dotted #aaa;
+    padding: 5px;
+}
+
+div.image {
+    text-align:center;
+    font-size:12px;
+    font-style:italic;
+}
+
+div.citation {
+    text-align:right;
+    font-size:14px;
+    font-style:italic;
+    margin:20px;
+}
+
+.citation address {
+    font-style:normal;
+    font-weight:bold;
+}
+
+a.noteref {
+    text-decoration: none;
+    color: #0000ff;
+    font-size:10px;
+    font-weight:bold;
+}
